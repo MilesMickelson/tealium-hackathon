@@ -4,7 +4,7 @@
 ![](images/ProjectScreenshot.png)
 ![](images/ProjectScreenshot2.png)
 
-At the 2018 Tealium Hackathon event, my team built a data statistic 
+At the 2018 Tealium Hackathon event, our team built a data statistic 
 display tool to give Tealium an added service for their clients, 
 supplying them a way to achieve coordinated marketing strategies 
 through a simple information viewing system. As a result of our 
